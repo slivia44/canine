@@ -1,0 +1,71 @@
+ *{
+background-color: #000000;
+}
+.sidebar{
+    background: -webkit-gradient(linear, left bottom, left top, from(#020f0a), to(#fff));
+    background: -webkit-linear-gradient(bottom, #241c3a 0%, #020f0a 100%);
+    background: -moz-linear-gradient(bottom, #241c3a 0%, #020f0a 100%);
+    background: -o-linear-gradient(bottom, #000000 0%, rgb(0, 0, 0) 100%);
+    background: linear-gradient(to top, rgb(0, 0, 0) 0%, rgb(27, 0, 0) 100%);
+}
+
+.header{
+    background: -webkit-gradient(linear, left bottom, left top, from(#020f0a), to(#fff));
+    background: -webkit-linear-gradient(bottom, #241c3a 0%, #020f0a 100%);
+    background: -moz-linear-gradient(bottom, #241c3a 0%, #020f0a 100%);
+    background: linear-gradient(to top, rgb(0, 0, 0) 0%, rgb(27, 0, 0) 100%);
+}
+
+.logo{
+    background: -webkit-gradient(linear, left bottom, left top, from(#020f0a), to(#fff));
+    background: -webkit-linear-gradient(bottom, #241c3a 0%, #020f0a 100%);
+    background: -moz-linear-gradient(bottom, #241c3a 0%, #020f0a 100%);
+    background: linear-gradient(to top, rgb(0, 0, 0) 0%, rgb(27, 0, 0) 100%);
+} 
+
+
+.fil:hover{
+    transform: scale(1.04);
+    color: white;
+}
+.btn{
+    background-color: black;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+input:hover{
+    color: black;
+}
+
+.line{
+    background-color: #f7f7f7;
+}
+.card {
+    background: #000000;
+    margin: 7.5px 0;
+    padding: 20px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  }
+
+
+  .input-group-text{
+      background-color: #080707;
+  }
+  input#file-upload-button{
+      background-color: #000000;
+  }
+  .fill{
+      background-color: #000000;
+  }
+
+  a,
+button {
+  color: #fcfcfc;
+}
+
+.logo span{
+    color: white;
+}
+.logo{
+    background-color: #000000;
+}
